@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "699727451241",
+    "project_id": "flash-a4228",
+    "storage_bucket": "flash-a4228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699727451241:android:3da69222c8a587925a7ef8",
+        "android_client_info": {
+          "package_name": "com.example.flashechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699727451241-dsiuefpsdt5hfiq84kavhkau3j2rg7h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7NO8TLIso3qeYZpc3EmXJtmIj30BGpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699727451241-dsiuefpsdt5hfiq84kavhkau3j2rg7h7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699727451241-dom64nu9sqfv0vdsak60m1htuius0239.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rilatech.flashechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
